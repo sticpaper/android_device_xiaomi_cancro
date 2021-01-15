@@ -32,7 +32,7 @@
     <item name="gps.on">170</item>
     <item name="radio.active">300</item>
     <item name="radio.scanning">70</item>
-    <item name="battery.capacity">3050</item>
+    <item name="battery.capacity">3080</item>
     <array name="radio.on">
         <value>3</value>
         <value>3</value>
